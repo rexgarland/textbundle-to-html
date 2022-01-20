@@ -1,7 +1,7 @@
 {
   "name": "textbundle-to-html",
   "description": "Convert TextBundle files to blog posts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/build.js",
   "bin": {
     "textbundle-to-html": "src/build.js"
